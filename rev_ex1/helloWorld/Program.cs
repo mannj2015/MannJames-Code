@@ -19,6 +19,10 @@ namespace helloWorld
             lname = Console.ReadLine();
             //interpolation
             Console.WriteLine($"welcome {fname} {lname} !");
+
+            //add date time
+            //sql datetime?
+
             //connocation - less efficient
             //System.Console.WriteLine("w " + fname + " " + lname);
         }
