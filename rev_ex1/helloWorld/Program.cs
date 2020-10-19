@@ -23,6 +23,8 @@ namespace helloWorld
             //add date time
             //sql datetime?
 
+            //adding weather?
+
             //connocation - less efficient
             //System.Console.WriteLine("w " + fname + " " + lname);
         }
