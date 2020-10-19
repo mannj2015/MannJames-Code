@@ -18,7 +18,7 @@ namespace helloWorld
             Console.WriteLine("please enter lname");
             lname = Console.ReadLine();
             //interpolation
-            Console.WriteLine($"welcome {fname} {lname}");
+            Console.WriteLine($"welcome {fname} {lname} !");
             //connocation - less efficient
             //System.Console.WriteLine("w " + fname + " " + lname);
         }
