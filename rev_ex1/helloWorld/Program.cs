@@ -2,6 +2,8 @@
 //1.0 prefefined namespace
 using System;
 
+//delete bin and obj then run dotnet builds
+
 //1.1 custom defined namespace
 namespace helloWorld
 {
