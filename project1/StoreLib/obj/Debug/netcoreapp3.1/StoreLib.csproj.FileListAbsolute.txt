@@ -1,0 +1,4 @@
+C:\Users\mannj\Desktop\project1\StoreLib\obj\Debug\netcoreapp3.1\StoreLib.csprojAssemblyReference.cache
+C:\Users\mannj\Desktop\project1\StoreLib\obj\Debug\netcoreapp3.1\StoreLib.AssemblyInfoInputs.cache
+C:\Users\mannj\Desktop\project1\StoreLib\obj\Debug\netcoreapp3.1\StoreLib.AssemblyInfo.cs
+C:\Users\mannj\Desktop\project1\StoreLib\obj\Debug\netcoreapp3.1\StoreLib.csproj.CoreCompileInputs.cache
