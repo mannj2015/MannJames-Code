@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mannj\\Desktop\\vb_tutorial\\rev_ex1\\helloWorld\\helloWorld.csproj": {}
+    "C:\\Users\\mannj\\Documents\\GitHub\\MannJames-Code\\rev_ex1\\helloWorld\\helloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mannj\\Desktop\\vb_tutorial\\rev_ex1\\helloWorld\\helloWorld.csproj": {
+    "C:\\Users\\mannj\\Documents\\GitHub\\MannJames-Code\\rev_ex1\\helloWorld\\helloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mannj\\Desktop\\vb_tutorial\\rev_ex1\\helloWorld\\helloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\mannj\\Documents\\GitHub\\MannJames-Code\\rev_ex1\\helloWorld\\helloWorld.csproj",
         "projectName": "helloWorld",
-        "projectPath": "C:\\Users\\mannj\\Desktop\\vb_tutorial\\rev_ex1\\helloWorld\\helloWorld.csproj",
+        "projectPath": "C:\\Users\\mannj\\Documents\\GitHub\\MannJames-Code\\rev_ex1\\helloWorld\\helloWorld.csproj",
         "packagesPath": "C:\\Users\\mannj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mannj\\Desktop\\vb_tutorial\\rev_ex1\\helloWorld\\obj\\",
+        "outputPath": "C:\\Users\\mannj\\Documents\\GitHub\\MannJames-Code\\rev_ex1\\helloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
